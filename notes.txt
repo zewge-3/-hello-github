@@ -1,2 +1,3 @@
 There are my first Github notes
 Learning branches is fun
+Accessing Github locally is very cool and smart way.
