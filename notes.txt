@@ -1,3 +1,13 @@
 There are my first Github notes
 Learning branches is fun
 Accessing Github locally is very cool and smart way.
+
+
+## Create a new branch called "feature-branch"
+git branch feature-branch
+
+## Switch to your new branch
+git checkout feature-branch
+
+## Shortcut to create and switch in one step:
+git checkout -b feature-branch
